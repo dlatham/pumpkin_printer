@@ -1,6 +1,8 @@
 # Pumpkin Printer
 By Dave Latham
 
+http://www.daveinsf.com/projects/wells-fargo-account-generator-pumpkin
+
 Based on code by Nathan Seidle of Spark Fun Electronics 2011
 
 ---
